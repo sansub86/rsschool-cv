@@ -1,5 +1,5 @@
 1. Alexander Suberlyak
-2. Contact Info: **telegram**: [@sansub_x](https://t.me/sansub_x), **e-mail:** [sun_mail_86@mail.ru](mailto://sun_mail_86@mail.ru)
+2. Contact Info: **telegram**: [@sansub_x](https://t.me/sansub_x), **e-mail:** [sun_mail_86@mail.ru](mailto://sun_mail_86@mail.ru), **Git:** [sansub86](https://github.com/sansub86/)
 3. Summary: The main goal of my styding is to improve my skills in web development. And may be find intresting job here or somewhere else.
 Now i working as a junior developer in a small it company. My job is designing a website layout.
 4. Skills **HTML, CSS, JS, React, Node.js, Nest, git** 
