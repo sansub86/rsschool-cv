@@ -7,3 +7,4 @@ Now i working as a junior developer in a small it company. My job is designing a
 6. Experience: disigning website layout, developing frontend in React framework, developing backend on NestJS framework
 7. Education: Far Easten Nation Universaty, HTML academy courses, GeekBrains courses.
 8. English: Intermediate (I study English with a teacher 3 times a week)
+9. [CV. HTML, CSS & Git Basics](https://sansub86.github.io/rsschool-cv/)
